@@ -1,6 +1,6 @@
-# ogrenciapp
+# Wireless Attendance System (ogrenciapp)
 
-A new Flutter project.
+A new Flutter project for wireless attendance tracking.
 
 ## Getting Started
 
